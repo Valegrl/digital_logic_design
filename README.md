@@ -1,5 +1,7 @@
 ## Progetto di Reti Logiche – Final Project (PFRL 23/24)
-This repository contains the final project for the "Progetto di Reti Logiche" course. The project involves designing a VHDL-based hardware module that processes a sequence of words stored in memory, replacing undefined values (zeros) with the last valid non-zero value, and computing a credibility value for each word.
+This repository contains the final project for the "Progetto di Reti Logiche" course. The project involves designing a VHDL-based hardware module that processes a sequence of words stored in memory, replacing undefined values (zeros) with the last valid non-zero value, and computing a credibility value for each word.</br>
+
+Grade: 30/30 cum laude
 
 &nbsp;
 ## Project Description
