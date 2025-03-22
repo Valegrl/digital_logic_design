@@ -24,7 +24,7 @@ Grade: 30/30 cum laude
 
 &nbsp;
 ## Simulation and Synthesis
-* Simulation: Use the provided testbench to verify the module’s functionality.
+* Simulation: Use the provided testbenches to verify the module’s functionality.
 
 * Synthesis: The design is synthesized using Xilinx Vivado WebPACK (recommended version 2016.4, targeting the Artix-7 FPGA family).
 
@@ -32,7 +32,7 @@ Grade: 30/30 cum laude
 ## Setup and Usage
 1. Environment: Open the project in your VHDL development environment.
 
-2. Simulation: Run the testbench to simulate and verify functionality.
+2. Simulation: Run the testbenches to simulate and verify functionality.
 
 3. Synthesis: Use Xilinx Vivado WebPACK to synthesize the design and target your FPGA.
 
